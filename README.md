@@ -1,6 +1,6 @@
 <img src="https://content.arduino.cc/website/Arduino_logo_teal.svg" height="100" align="right" />
 
-# Arduino IDE 2.x
+# Arduino IDE 2.x.x
 
 [![Build status](https://github.com/arduino/arduino-ide/actions/workflows/build.yml/badge.svg)](https://github.com/arduino/arduino-ide/actions/workflows/build.yml)
 [![Check JavaScript status](https://github.com/arduino/arduino-ide/actions/workflows/check-javascript.yml/badge.svg)](https://github.com/arduino/arduino-ide/actions/workflows/check-javascript.yml)
